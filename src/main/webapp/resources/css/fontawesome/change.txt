@@ -1,0 +1,2 @@
+delete (line-height:1)
+reason:if use this line whole page will have problem.
